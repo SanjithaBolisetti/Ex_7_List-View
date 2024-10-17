@@ -6,7 +6,7 @@ To create and develop the application to display the place name with image using
 Android Studio(Latest Version)
 
 ## ALGORITHM:
-## Step 1:Open Android Stdio and then click on File -> New -> New project.
+Step 1:Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as “listview″ and click Next.
 
