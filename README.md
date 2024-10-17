@@ -131,8 +131,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/f177fe41-9d54-494d-847c-2a4bc88de12d)
-![image](https://github.com/user-attachments/assets/3527d49c-5b57-4f0f-96c4-28f35524229f)
+![image](https://github.com/user-attachments/assets/f63f7628-2894-49a9-8db4-ffdd4eaea12b)
+![image](https://github.com/user-attachments/assets/c98fddd5-07c5-42b7-b645-a549ec5d5c02)
+
 
 ## RESULT
 Thus a Simple Android Application to create and develop the application to display the country name with image using list view in android studio is developed and executed successfully
